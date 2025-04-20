@@ -4,9 +4,20 @@ Hi 👋 My name is Yurii
 Full-Stack Developer
 --------------------
 
-I'm a full-stack developer with a strong background in PHP, Laravel, Vue, Nuxt, React, and Filament. I build robust web applications, combining modern frontends with powerful backend architectures. I work confidently across the stack — from complex API systems and custom admin panels to SEO-optimized frontends and self-hosted infrastructure. I have hands-on experience with tools like n8n, Redis, and AI integrations for building automated workflows and smart systems. I'm equally comfortable working with headless CMS setups, WooCommerce, and WordPress customizations, including dynamic filtering, shortcodes, and custom checkout flows. My deployment stack includes Laravel Cloud, Hetzner, Coolify, and Cloudflare (including R2, SSL, Pages). I value full control over the development and deployment lifecycle, often preferring self-hosted solutions over SaaS platforms. I focus on clean, scalable code, efficient automation, and delivering real value through practical, production-ready solutions.
+I'm a full-stack developer with a strong background in **PHP**, **Laravel**, **Vue**, **Nuxt**, **React**, and **Filament**.  
+I build robust web applications, combining modern frontends with powerful backend architectures.  
+I work confidently across the stack — from complex API systems and custom admin panels to SEO-optimized frontends and self-hosted infrastructure.
+
+I have hands-on experience with tools like **n8n**, **Redis**, and **AI integrations** for building automated workflows and smart systems.  
+I'm equally comfortable working with **headless CMS setups**, **WooCommerce**, and **WordPress customizations**, including dynamic filtering, shortcodes, and custom checkout flows.
+
+My deployment stack includes **Laravel Cloud**, **Hetzner**, **Coolify**, and **Cloudflare** (R2, SSL, Pages).  
+I value full control over the development and deployment lifecycle, often preferring self-hosted solutions over SaaS platforms.
+
+I focus on **clean, scalable code**, efficient automation, and delivering **real value through practical, production-ready solutions**.
 
 * 🌍  I'm based in Kyiv, Ukraine
+* 🚀 For quick communication, write to telegram [@sofard](https://t.me/traffic_guru)
 * ✉️  You can contact me at [yurii.sofard@gmail.com](mailto:yurii.sofard@gmail.com)
 
 ### Skills
