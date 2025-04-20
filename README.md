@@ -17,7 +17,7 @@ I value full control over the development and deployment lifecycle, often prefer
 I focus on **clean, scalable code**, efficient automation, and delivering **real value through practical, production-ready solutions**.
 
 * 🌍  I'm based in Kyiv, Ukraine
-* 🚀 For quick communication, write to telegram [@sofard](https://t.me/traffic_guru)
+* 🚀 For quick communication, write to telegram [@sofard](https://t.me/sofard)
 * ✉️  You can contact me at [yurii.sofard@gmail.com](mailto:yurii.sofard@gmail.com)
 
 ### Skills
